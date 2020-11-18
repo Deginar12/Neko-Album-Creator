@@ -6,13 +6,23 @@
   "dependencies": {
     "telegraf": "^3.22.1",
     "telegraf-i18n": "^6.1.1",
-    "telegraf-session-local": "0.0.7"
+    "telegraf-session-local": "0.0.7",
+    "express": "^4.17.1",
+    "http": "^0.0.0"
   },
   "devDependencies": {},
   "scripts": {
     "start": "node albumMeBot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node": "10.x"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",  
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
 }
