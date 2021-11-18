@@ -1,0 +1,12 @@
+greeting: "Hola ${username}! 👋 Envíame fotos o videos y yo crearé un album con ellos.\n\n"
+help: 'Solo reenvíam múltiple fotos o videos y yo creare un bonito album con ellos para ti!'
+settings: 'No hay opciones para seleccionar aqui.'
+source: "https://github.com/wjclub/telegram-bot-album-creator"
+
+
+keyboard_done: "Crear album"
+album_done: "Aqui esta tu album!"
+keyboard_clear: "Limpiar album"
+not_enough_media_items: "Lo siento, pero necesitas enviar mas de dos elementos multimedia (imágenes o videos) para crear un album."
+queue_cleared: "Me olvidé de todas las fotos y videos que me habias enviado. Puedes intentar de nuevo."
+album_create_error: "Algo salió mal al momento de crear tu album. Por favor intenta de nuevo en un minuto."

@@ -4,10 +4,11 @@
   "description": "Jam multiple pictures together so they form albums",
   "main": "albumMeBot.js",
   "dependencies": {
+    "@replit/database": "^2.0.0",
+    "express": "^4.17.1",
     "telegraf": "^3.22.1",
     "telegraf-i18n": "^6.1.1",
-    "telegraf-session-local": "0.0.7",
-    "express": "^4.17.1"
+    "telegraf-session-local": "0.0.7"
   },
   "devDependencies": {},
   "scripts": {
@@ -18,10 +19,9 @@
     "node": "10.x"
   },
   "author": "",
-  "license": "ISC",  
+  "license": "ISC",
   "keywords": [
     "node",
-    "glitch",
     "express"
   ]
 }
