@@ -1,4 +1,10 @@
-Album Creator (Telegram bot)
+Neko Album Creator
 ============================
 
-Create album's from forwarded media.
+NekoAlbumBot is a telegram bot that helps you to create albums from forwarded media (photos & videos).
+
+
+![alt text](public/assets/screenshot.jpg)
+
+
+*Fork by @NekoLove, Original Repo by @wjclub*
